@@ -1,0 +1,51 @@
+#index{
+    border: solid 1px;
+    margin: 0 auto;
+    width: 30%;
+    padding: 24px;
+} 
+button{
+        padding: 20px 200px;
+        border:none;
+        background-color:black;
+        color:aquamarine;
+        border-radious: 2px
+}
+        
+#form{
+            border: solid 1px;
+            margin: 0 auto;
+            width: 30%;
+            padding: 24px;
+        }
+        #form{
+
+            border: solid 1px;
+            margin:0 auto;
+            width: 50%;
+            padding: 24px;
+        }
+        
+        button{
+            padding: 20px 200px;
+            border:none;
+            color: aquamarine;
+            background-color: black;
+            border-radious: 2px
+        }
+        #table,th,td{
+            border:  solid 1px;color: black;
+            margin: 5 auto;
+            width: 20;
+            padding: 5px;
+        
+        }
+        
+        
+        caption {
+            border: solid 2px;
+            
+        }
+
+    
+     
